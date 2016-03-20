@@ -9,4 +9,11 @@ laveral的学习
     [PDOException]         
     could not find driver
   
-  
+　目前部署到xampp的htdocs目录下
+　可以通过xampp的localhost访问搞出“　ｌａｒａｖｅｌ”页面【笑哭】
+　跟着视频学习了一些　artison 命令
+　
+
+唔貌似没了
+就这么点
+２０１６．３．２０
